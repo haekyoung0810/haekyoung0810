@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Goot to see you! 
-I'm hae kyoung KANG who is interested in front-end Develop from South Korea.
+I'm hae kyoung KANG who is interested in front-end Development from South Korea.
 
 If you want to contact me, plz leave me a message! 💬💬💬
 
